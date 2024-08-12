@@ -15,33 +15,20 @@ necesidad de instalar python debia hacerlo en otro lenguaje de programación. A 
 
 ### Busqueda dificil🔎
 A pesar de la gran variedad de temas en el interner, se me estaba haciendo dificil encontrar algo "util" para mi proyecto. Lo poco que encontre del tema fueron las 
-Leyes de kepler, las cuales use para hacer la version 0.0.1 de mi programa.[^1]
+Leyes de kepler, las cuales use para hacer la version 0.0.1 de mi programa.
 
   https://github.com/user-attachments/assets/1c047d84-96b0-433e-a7f9-2ce4d7218e25
 
-###Cambio de planes🗺️👆
-Hize una segunda version de mi programa ccon más planetas de nuestro sistema solar, pero nos dimos cuenta de que esto no mostraria bien la trayectoria del cohete, ademas de que las leyes de kepler 
-(al menos con mis conocimientos sobre la fisica)  no nos eran de gran ayuda. 
+### Cambio de planes🗺️👆
+Hize una segunda version de mi programa ccon más planetas de nuestro sistema solar, pero nos dimos cuenta de que esto no mostraria bien la trayectoria del cohete, ademas de que las leyes de kepler (al menos con mis conocimientos sobre la fisica)  no nos eran de gran ayuda. 
+
 Afortunadamente encontramos un programa llamado "NASA Horizon System", un sistema de efemerides que tenia registrado la ubicacion de cualquier planeta o cuerpo celeste en el sistema solar en cordenadas x, y, z; así que mediante un API 
-descargamos las coordenadas de la Tierra y de Marte en un periodo de dos años (2023 - 2025) e hicimos una version 0.0.3 de mi programa [^2]
+descargamos las coordenadas de la Tierra y de Marte en un periodo de dos años (2023 - 2025) e hicimos una version 0.0.3 de mi programa.
+  
+  https://github.com/user-attachments/assets/05c4d88f-9adf-4405-b7d4-10e2e79f1924
 
+### Falta de tiempo⏱️
+A pesar de que empece a trabajar un 2 semanas antes de que la ExpoCiencias iniciara mi programa era muy ambicioso, por lo que el objetivo de mi programa paso de ser un programa interactivo donde pudieras escojer tu destino, a una simulación del viaje con un destino ya elegido (Marte). Con esto ultimo logre hacer la version final de mi programa
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/user-attachments/assets/858839f8-7ca0-4987-8a48-d7a44c2b1959
 
