@@ -32,3 +32,7 @@ A pesar de que empece a trabajar un 2 semanas antes de que la ExpoCiencias inici
 
 https://github.com/user-attachments/assets/858839f8-7ca0-4987-8a48-d7a44c2b1959
 
+## Resultado
+A pesar de mis contratiempos logre llegar la fase estatal de la expo; luego ya no pude pasar de fase y solo me dieron un reconocimiento por mi participación. Aun asi se que el haber hecho este programa me servio muchisimo ya que yo no entre a la ExpoCiencias a ganar, yo entre a la ExpoCiencias para probarme a mi mismo que soy capaz de hacer algo "grande" (no tan grande😅) a mis 13 años de edad.
+
+![IMG_3642](https://github.com/user-attachments/assets/744ef644-ca31-4e61-b8ff-cd663cd2435a)
