@@ -10,8 +10,8 @@ Estaba en primero de secundaria cuando me entere de la "ExpoCiencias", en ese mo
 unas semanas antes de que se tuviera que mandar algun tipo de avanze del proyecto decidi esperar hasta la Expociencias de el proximo años
 
 ### Lenguaje de programación🐍
-Una vez ya dentro del concurso esta vez en segundo grado de secundaria; empecé a hacer un "boceto" de mi programa en python, pero mi papá me hizo darme cuenta que, para que mi programa pueda ser visto y evaluado por todos sin la 
-necesidad de instalar python debia hacerlo en otro lenguaje de programación. A partir de ese punto mi papá me empezo a orientar en mi proyecto para poder hacerlo en JavaScript
+Una vez ya dentro del concurso esta vez en segundo grado de secundaria; empecé a hacer un "boceto" de mi programa en python ya que en ese tiempo habia mejorado muchísimo mi habilidad con python, pero mi papá me hizo darme cuenta que para que mi programa pueda ser visto y evaluado por todos sin la 
+necesidad de instalar python en las computadoras de los jueces debia hacerlo en otro lenguaje de programación. A partir de ese punto mi papá me empezo a orientar en mi proyecto para poder hacerlo en JavaScript
 
 ### Busqueda dificil🔎
 A pesar de la gran variedad de temas en el interner, se me estaba haciendo dificil encontrar algo "util" para mi proyecto. Lo poco que encontre del tema fueron las 
