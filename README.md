@@ -34,9 +34,6 @@ descargamos las coordenadas de la Tierra y de Marte en un periodo de dos años (
 
 
 
-[^1]: file:///Users/beto/Desktop/Viaje_al_Espacio/Respaldo/1/Viaje_al_espacio_1.html
-[^2]: file:///Users/beto/Desktop/Viaje_al_Espacio/Respaldo/3/Viaje_al_espacio3.html
-
 
 
 
