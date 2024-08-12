@@ -1,7 +1,7 @@
 # Proyecto  🚀Viaje al Espacio🚀.
 
 ## Objetivos:
-- Crear un programa capaz de calcular cuanto tiempo (días) tardaria en llegar un cohete de la Tierra a Marte en un determinado día ya establecido
+- Crear un programa capaz de calcular cuanto tiempo (días) tardaria en llegar un cohete de la Tierra a Marte en un determinado día ya establecido y hacer una simulación en la que el cohete parta de la Tierra y llegue a Marte en dicho tiempo
 - Una vez ya hecho el programa mandarlo a la expociencias para poder competir en esta
 
 ## Dificutades durante el desarrollo del proyecto
